@@ -4,11 +4,11 @@
 Puedes poner en práctica tus habilidades revisando y utilizando el código a continuación.
 
 ## ÍNDICE
-* [1. Intro](https://github.com/AzVill/clon-d-google/edit/main/README.md#1-intro)
-* [2. Demo](https://github.com/AzVill/clon-d-google/edit/main/README.md#2-demo)
-* [3. ¿Qué construirás?](https://github.com/AzVill/clon-d-google/edit/main/README.md#3-qu%C3%A9-construir%C3%A1s)
-* [4. Objetivos de aprendizaje](https://github.com/AzVill/clon-d-google/edit/main/README.md#4-objetivos-de-aprendizaje)
-* [5. Requisitos](https://github.com/AzVill/clon-d-google/edit/main/README.md#5-requisitos)
+* [1. Intro](https://github.com/AzVill/clon-d-google#1-intro)
+* [2. Demo](https://github.com/AzVill/clon-d-google#2-demo)
+* [3. ¿Qué construirás?](https://github.com/AzVill/clon-d-google#3-qu%C3%A9-construir%C3%A1s)
+* [4. Objetivos de aprendizaje](https://github.com/AzVill/clon-d-google#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/AzVill/clon-d-google#5-requisitos)
 ****
 ## 1. Intro
 HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los días en el navegador. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS (junto con otros elementos que conocerás más adelante). Para este primer proyecto, con los conocimientos que tienes de HTML y CSS realizarás la clonación de la interfaz de Google, sí, esa que ves cada que haces una búsqueda en su navegador, ¿aceptas el reto?
@@ -16,7 +16,7 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 ## 2. Demo
 Puedes entrar a ver el demo en este vínculo: https://clinquant-cendol-ccdaf4.netlify.app/
 <p></p>
-<img src="Clon/clon-de-google.png" alt="MiClon">
+<img src=image/Cap_Clon.jpg alt="MiClon">
 
 ***La idea es inspirarte con esta demostración de proyecto.***
 
